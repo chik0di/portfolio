@@ -12,7 +12,7 @@ to try out. Enjoy it ;)
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
 
-AJ
+AJ 
 aj@lkn.io | @ajlkn
 
 
@@ -21,7 +21,7 @@ Credits:
 	Demo Images;
 		Unsplash (unsplash.com)
 
-	Icons:
+	Icons;
 		Font Awesome (fontawesome.io)
 
 	Other:
